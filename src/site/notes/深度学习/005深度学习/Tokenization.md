@@ -9,4 +9,4 @@ tiktoken：利用库来进行文字对应。有时候一个字可能对应多个
 如何拆分是编码的事，但最后分割成token的数量才被称为context_length
 
 
-
+[[深度学习/005深度学习/Position Encoding\|Position Encoding]]

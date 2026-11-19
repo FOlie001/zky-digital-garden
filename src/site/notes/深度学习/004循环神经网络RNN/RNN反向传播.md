@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/深度学习/004循环神经网络RNN/RNN反向传播/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/深度学习/004循环神经网络RNN/RNN反向传播/","dg-note-properties":{"PreviousArticle":"","NextArticle":"","SeeAlso":[]}}
 ---
 
 RNN中的反向传播叫做BPTT(本质还是链式法则)
@@ -10,3 +10,4 @@ RNN中的反向传播叫做BPTT(本质还是链式法则)
 2、梯度累加：把每个时间步的梯度都加起来
 3、沿时间轴链式求导
 
+[[起始页\|起始页]]
