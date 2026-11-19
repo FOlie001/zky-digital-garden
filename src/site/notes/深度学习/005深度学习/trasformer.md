@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//005/trasformer/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/深度学习/005深度学习/trasformer/","dg-note-properties":{}}
 ---
 
 

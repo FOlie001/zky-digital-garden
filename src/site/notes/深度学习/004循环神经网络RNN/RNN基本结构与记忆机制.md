@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//004-rnn/rnn/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/深度学习/004循环神经网络RNN/RNN基本结构与记忆机制/","dg-note-properties":{}}
 ---
 
 让第一个词的结果参与到第二个词的计算中。将上一时刻的信息传到当前时刻

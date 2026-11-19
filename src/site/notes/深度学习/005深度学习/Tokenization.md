@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//005/tokenization/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/深度学习/005深度学习/Tokenization/","dg-note-properties":{}}
 ---
 
 词的拆分，转成数字化

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//005/dropout/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/深度学习/005深度学习/Dropout/","dg-note-properties":{}}
 ---
 
 在训练时随机丢弃一部分神经元，让它们本次暂时不向前传播，而在推理时使用完整网络

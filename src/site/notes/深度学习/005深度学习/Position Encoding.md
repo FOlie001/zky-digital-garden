@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"//005/position-encoding/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/深度学习/005深度学习/Position Encoding/","dg-note-properties":{}}
 ---
 
 加入位置编码
